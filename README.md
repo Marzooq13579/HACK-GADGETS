@@ -1,7 +1,7 @@
 # HACK-GADGETS
 Use these for the good cause.
 
-# hack-tools-python-perl-javascript
+# Hack-Tools-Python-Perl-Javascript
 
 
 [![Anonymous](https://i.pinimg.com/236x/80/11/d1/8011d144a7c106c936cc2778531c9589--anonymous.jpg?b=t) 
