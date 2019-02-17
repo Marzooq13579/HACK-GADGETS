@@ -35,4 +35,4 @@ download NSA Tools : https://lucid-hawking-66f691.netlify.com
 
 execute javascript : java -jar file.jar
 
-                                                                                                            -Marzooq Mali
+                                                                                             -Marzooq Mali
